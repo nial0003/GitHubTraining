@@ -4,6 +4,7 @@ public class TestingGitHub {
         System.out.println(hej);
         System.out.println("hejsa");
         System.out.println("hej3");
+        System.out.println("ikke push");
     }
 
 }
