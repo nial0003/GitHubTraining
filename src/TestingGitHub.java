@@ -14,6 +14,7 @@ public class TestingGitHub {
         System.out.println("hejsa igen");
         System.out.println("china number 1");
         System.out.println("linje 1");
+        System.out.println("linje 2");
     }
 
 }
