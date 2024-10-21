@@ -8,6 +8,7 @@ public class TestingGitHub {
         System.out.println("ikke push");
         System.out.println("pffft");
         System.out.println("hehe");
+        System.out.println("hahahah");
     }
 
 }
