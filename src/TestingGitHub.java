@@ -9,6 +9,8 @@ public class TestingGitHub {
         System.out.println("pffft");
         System.out.println("hehe");
         System.out.println("hahahah");
+        System.out.println("test 5");
+        System.out.println("test 6");
     }
 
 }
