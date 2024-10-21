@@ -5,6 +5,7 @@ public class TestingGitHub {
         System.out.println("hejsa");
         System.out.println("hej3");
         System.out.println("dette er en test");
+        System.out.println("ikke push");
     }
 
 }
