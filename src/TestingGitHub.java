@@ -11,6 +11,7 @@ public class TestingGitHub {
         System.out.println("hahahah");
         System.out.println("test 5");
         System.out.println("test 6");
+        System.out.println("hejsa igen");
     }
 
 }
