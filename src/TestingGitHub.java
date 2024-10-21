@@ -13,6 +13,8 @@ public class TestingGitHub {
         System.out.println("test 6");
         System.out.println("hejsa igen");
         System.out.println("china number 1");
+        System.out.println("i just lost my daaaawg");
+        System.out.println("bgidj");
     }
 
 }
