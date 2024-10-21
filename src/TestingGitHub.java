@@ -7,6 +7,7 @@ public class TestingGitHub {
         System.out.println("dette er en tes");
         System.out.println("ikke push");
         System.out.println("test 5");
+        System.out.println("test 6");
     }
 
 }
