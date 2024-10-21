@@ -15,6 +15,9 @@ public class TestingGitHub {
         System.out.println("china number 1");
         System.out.println("i just lost my daaaawg");
         System.out.println("bgidj");
+        System.out.println("linje 1");
+        System.out.println("linje 2");
+        System.out.println("linje 3");
     }
 
 }
